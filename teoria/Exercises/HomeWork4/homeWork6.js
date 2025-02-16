@@ -7,3 +7,4 @@ const showMeTextMyArrowFunction = (text) => {
     console.log(text);
 }
  showMeTextMyArrowFunction("hej"); // wywołanie funkcji showMeTextMyArrowFunction z argumentem "hej"
+
